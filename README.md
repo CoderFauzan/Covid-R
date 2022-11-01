@@ -1,3 +1,7 @@
+# Covid Tracker React JS
+![image](https://user-images.githubusercontent.com/90621630/199280610-41ee1273-5850-4936-8f6d-410cbd68ed44.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
